@@ -16,8 +16,8 @@
       "service": "Mailgun",
       "host": "smtp.eu.mailgun.org",
       "auth": {
-        "user": "postmaster@your_domain.com",
-        "pass": "1234567890"
+        "user": "postmaster@mg.vietcs.org",
+        "pass": "b509f3f7585cd6d9708908c8aa7ea7da-f7910792-e8e63745"
       }
     }
   },
