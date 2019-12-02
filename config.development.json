@@ -19,7 +19,8 @@
         "user": "postmaster@mg.vietcs.org",
         "pass": "b509f3f7585cd6d9708908c8aa7ea7da-f7910792-e8e63745"
       }
-    }
+    },
+    "from": "'VietCS - Vietnamese Computer Science Community' <noreply@vietcs.org>"
   },
   "logging": {
     "transports": [
