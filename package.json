@@ -10,7 +10,8 @@
   "private": true,
   "version": "3.0.0",
   "dependencies": {
-    "liebling": "github:eddiesigner/liebling#0.6.3",
+    "attila": "github:zutrinken/attila#1.13.0",
+    "bleak": "github:zutrinken/bleak#1.4.0",
     "casper": "github:tryghost/Casper",
     "ghost": "^3.0.0",
     "ghost-storage-adapter-s3": "^2.8.0",
